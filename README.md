@@ -7,7 +7,9 @@ I am not liable for any damages caused. Exercise your own discretion.
 
 Dependencies:
   USB drive: at least 8 GB of space as of 13/2/2026 (everything will be erased)
-  Password to Admin account on DMA
+  
+  You might need the password to admin account.
+  
   Windows 11 Multi edition ISO image or any Disk image of an OS of your choice(Optaining the windows image will be covered in this guide)
 
   
