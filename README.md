@@ -55,7 +55,7 @@ Creating a bootable USB
         Choose what you need. I suggest unchecking them.
   14. When warned that the USB will be erased, click OK.
   15. Wait until it says READY, then click CLOSE. Safely eject the USB.
-  16. Windows 11 Pro will be the preferred OS. To install windows 11 pro, create the file "ei.cfg" , add in this:
+  16. Windows 11 Pro will be the preferred OS if you want to instal DMA. To install windows 11 pro, create the file "ei.cfg" , add in this:
 ```
        [EditionID]
        Professional
@@ -82,6 +82,7 @@ Installing Windows 11 on the new disk partition
   2. Restart your computer and try to enter the boot screen. Search the key you need to press(normally F2 or F12)
   3. Change the boot order to boot with your USB.
   4. Follow the instruction and choose the empty partition when prompted where to install windows 11. You might need ethernet for this.
+  5. If your computer does not support internet, you can download the drivers into the bootable usb.
   
 
 
